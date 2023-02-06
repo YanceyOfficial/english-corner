@@ -23,7 +23,7 @@
 - _Eg:_ Have you get **any comment** to make about that? 你对那件事有什么高见?
 - _Eg:_ There are **some diseases** that are clearly inherited. 有些疾病显然有遗传性.
 
-如果想表示所谈论的是类别中的特定成员, 则使用**定指限定词(definite determiner)**加普通名词:
+如果想表示所谈论的是类别中的特定成员, 则使用**定指限定词(definite determiner)** 加普通名词:
 
 - _Eg:_ I put **my arm** round **her shoulder**. 我用胳膊搂着他的肩膀.
 - _Eg:_ ... **the destrction** of **their city** ... 他们的城市被摧毁
@@ -31,7 +31,7 @@
 
 ## 人称代词和指示代词
 
-指称人和事物, 可以不用专有名词或普通名词而使用代词(pronoun), 如果某个人或事物前面已经提到过了, 通常可用**人称代词(personal pronoun)**或**指示代词(demonstrative pronoun)**来谈论他们.
+指称人和事物, 可以不用专有名词或普通名词而使用代词(pronoun), 如果某个人或事物前面已经提到过了, 通常可用**人称代词(personal pronoun)** 或**指示代词(demonstrative pronoun)** 来谈论他们.
 
 - _Eg:_ Max will believe us, won't **he**? 马克思会相信我们的, 不是吗?
 - _Eg:_ Cound **I** speak to Sue, please? I'm sorry, **she** doesn't work here now. 请让 Sue 接电话. 对不起, 她已经不在这里工作了.
@@ -48,7 +48,7 @@
 
 ## 修饰语
 
-大部分**形容词(adjective)**都可以用作修饰语, 名词也常常用作修饰语(noun modifier).
+大部分**形容词(adjective)** 都可以用作修饰语, 名词也常常用作修饰语, 称为**名词修饰语(noun modifier)**.
 
 - _Eg:_ a **big** city 一个大城市
 - _Eg:_ **blue** ink 蓝墨水
