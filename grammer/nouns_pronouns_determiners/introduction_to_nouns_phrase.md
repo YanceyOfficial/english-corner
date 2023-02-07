@@ -48,9 +48,45 @@
 
 ## 修饰语
 
-大部分**形容词(adjective)** 都可以用作修饰语, 名词也常常用作修饰语, 称为**名词修饰语(noun modifier)**.
+大部分**形容词(adjective)** 都可以用作修饰语; 名词也常常用作修饰语, 称为**名词修饰语(noun modifier)**.
 
 - _Eg:_ a **big** city 一个大城市
 - _Eg:_ **blue** ink 蓝墨水
 - _Eg:_ He opened the **car** door. 他打开了车门.
 - _Eg:_ the **oil** industry. 石油产业
+
+## 名词后添加信息
+
+名词后面可以添加介词短语, 关系从句, 地点或时间副词, 或者 to do 不定式.
+
+- _Eg:_ a girl **in a dark grey dress**. 穿深灰色连衣裙的女孩(介词短语)
+- _Eg:_ the man **who emloyed me**. 故用我的那个男子(定语从句)
+- _Eg:_ the room **upstairs**. 楼上的房间(地点副词)
+- _Eg:_ the desire **to work**. 工作的欲望(to do 不定式)
+
+形容词和分词有时也用在名词后面, 通常和其他词语组合在一起.
+
+- _Eg:_ the Minister **responsible for national security**. 负责国家安全的部长
+- _Eg:_ the three card **lying on the table to work**. 放在桌上的三张牌
+
+> 分词就是具有动词及形容词二者特征的词, 分词常常用时态来区别, 例如现在分词和过去分词; 分词也可能用语态区别, 英语中的现在分词本质上是主动分词, 而过去分词兼具主动, 被动用法.
+
+比较常见的是以 of 开头的介词短语, 因为这种短语可以表达两个名词短语之间很多不同的关系.
+
+- _Eg:_ strong feelings **of jealousy**. 强烈的嫉妒情绪
+- _Eg:_ a picture **of a house**. 一张房子的照片
+- _Eg:_ the rebuiding **of the old hospital**. 旧医院的重建
+- _Eg:_ the daughter **of the village cobber**. 村里补鞋匠的女儿
+- _Eg:_ problems **of varying complexity**. 复杂程度不一的问题
+- _Eg:_ the arrival **of the police**. 警察的到来
+
+## 名词短语及名词短语内部词语的连用
+
+即用连词(conjunction)来连接多个名词短语, 常见的连词有 and, or, but, 当然有时候直接用逗号代替 and, 或者直接连用一个个词.
+
+- _Eg:_ a table and chair. 一套桌椅
+- _Eg:_ his obligations with regard to Amanda, Robert and Matthew. 他对阿曼达, 罗拔和马太承担了太多义务
+- _Eg:_ some fruit or cheess afterwards. 然后来点水果或奶酪
+- _Eg:_ her long black shirt. 她的黑色长裙
+
+## 数词和量词短语
